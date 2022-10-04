@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+
+}
+
+h1{
+    text-align:center;
+    margin-bottom: 16px;
+}
+
+body{
+    background-color:rgba(0, 0, 255, 0.514);
+    text-align: justify;
+    color: rgb(26, 24, 22);
+    width: 100px;
+    height: 100vh;
+ } 
+
+.register{
+    text-align:center;
+    font-size: 18px;
+    background-color:lavender;
+    width: 300px;
+    margin-left: 500px;
+    margin-top: 75px;
+    padding-bottom: 80px;
+    padding-top: 10px;
+
+}
+
+#text{
+    margin-bottom: 10px;
+}
+
+.signup{
+    border: 1px solid ;
+    border-radius: 3px;
+    background-color: aqua;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 16px;
+    margin-top: 23px;
+    }
